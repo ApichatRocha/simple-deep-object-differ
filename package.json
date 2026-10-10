@@ -1,0 +1,17 @@
+{
+  "name": "simple-deep-object-differ",
+  "version": "0.1.0",
+  "description": "Compares two nested values and reports additions, removals, and changes by path",
+  "type": "module",
+  "main": "src/index.js",
+  "exports": "./src/index.js",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {}
+}
